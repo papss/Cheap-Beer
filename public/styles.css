@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 75%;
+  height: 100%;
+  margin: auto;
+  background: lightslategrey;
+}
+
+/* SITE HEADER --------------------- */
+
+.site-header {
+  display: flex;
+  align-items: center;
+}
+
+.header-left {
+  width: 50%;
+  border: 1px solid black;
+}
+
+.header-right {
+  width: 50%;
+  border: 1px solid red;
+}
+
+.site-title {
+  padding: 20px 0px;
+  font-family: sans-serif;
+  font-size: 4.5rem;
+}
+
+.btn-products {
+  align-self: center;
+  font-family: sans-serif;
+  font-size: 1.5rem;
+}

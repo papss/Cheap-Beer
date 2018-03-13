@@ -1,0 +1,23 @@
+{
+  "name": "cheap-beer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papss/Cheap-Beer.git"
+  },
+  "author": "J Papaluca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/papss/Cheap-Beer/issues"
+  },
+  "homepage": "https://github.com/papss/Cheap-Beer#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
